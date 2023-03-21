@@ -1,0 +1,17 @@
+.link_back_container {
+    margin-top: 3vh;
+}
+
+.link_back {
+    background-color: #782323;
+    color: #dcd7d7;
+    margin-right: 81vw;
+    border-radius: 14px;
+    transition: all 1s ease-in;
+    text-decoration: none;
+    padding-left: 6vw;
+    padding-right: 6vw;
+    padding-top: .9vh;
+    padding-bottom: .9vh;
+    border: 2px rgb(0, 200, 255) solid;
+}
